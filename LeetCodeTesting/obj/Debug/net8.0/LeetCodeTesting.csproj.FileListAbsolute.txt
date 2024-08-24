@@ -1,0 +1,15 @@
+c:\Users\Cademon\source\repos\LeetCodeWorkSpace\LeetCodeTesting\bin\Debug\net8.0\LeetCodeTesting.exe
+c:\Users\Cademon\source\repos\LeetCodeWorkSpace\LeetCodeTesting\bin\Debug\net8.0\LeetCodeTesting.deps.json
+c:\Users\Cademon\source\repos\LeetCodeWorkSpace\LeetCodeTesting\bin\Debug\net8.0\LeetCodeTesting.runtimeconfig.json
+c:\Users\Cademon\source\repos\LeetCodeWorkSpace\LeetCodeTesting\bin\Debug\net8.0\LeetCodeTesting.dll
+c:\Users\Cademon\source\repos\LeetCodeWorkSpace\LeetCodeTesting\bin\Debug\net8.0\LeetCodeTesting.pdb
+c:\Users\Cademon\source\repos\LeetCodeWorkSpace\LeetCodeTesting\obj\Debug\net8.0\LeetCodeTesting.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Cademon\source\repos\LeetCodeWorkSpace\LeetCodeTesting\obj\Debug\net8.0\LeetCodeTesting.AssemblyInfoInputs.cache
+c:\Users\Cademon\source\repos\LeetCodeWorkSpace\LeetCodeTesting\obj\Debug\net8.0\LeetCodeTesting.AssemblyInfo.cs
+c:\Users\Cademon\source\repos\LeetCodeWorkSpace\LeetCodeTesting\obj\Debug\net8.0\LeetCodeTesting.csproj.CoreCompileInputs.cache
+c:\Users\Cademon\source\repos\LeetCodeWorkSpace\LeetCodeTesting\obj\Debug\net8.0\LeetCodeTesting.sourcelink.json
+c:\Users\Cademon\source\repos\LeetCodeWorkSpace\LeetCodeTesting\obj\Debug\net8.0\LeetCodeTesting.dll
+c:\Users\Cademon\source\repos\LeetCodeWorkSpace\LeetCodeTesting\obj\Debug\net8.0\refint\LeetCodeTesting.dll
+c:\Users\Cademon\source\repos\LeetCodeWorkSpace\LeetCodeTesting\obj\Debug\net8.0\LeetCodeTesting.pdb
+c:\Users\Cademon\source\repos\LeetCodeWorkSpace\LeetCodeTesting\obj\Debug\net8.0\LeetCodeTesting.genruntimeconfig.cache
+c:\Users\Cademon\source\repos\LeetCodeWorkSpace\LeetCodeTesting\obj\Debug\net8.0\ref\LeetCodeTesting.dll
